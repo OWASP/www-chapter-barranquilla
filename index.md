@@ -21,6 +21,7 @@ auto-migrated: 1
 
 <h2>Siguenos</h2>
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Barranquilla:
+<br>
 <a href="http://www.twitter.com/owaspbaq" rel="nofollow"> <img src="https://www.owasp.org/images/d/d0/Twitterelvin.png" width="70" height="70">
 
 <h2>Soporte al Cápitulo</h2>
