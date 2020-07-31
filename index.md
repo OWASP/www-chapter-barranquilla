@@ -8,6 +8,9 @@ level: 0
 region: South America
 
 auto-migrated: 1
+meetup-group: OWASP-Barranquilla-Chapter
+country: Colombia
+postal-code: 
 
 ---
 
