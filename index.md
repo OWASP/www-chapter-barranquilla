@@ -26,13 +26,3 @@ postal-code:
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Barranquilla:
 <br>
 
-
-<h2>Soporte al Cápitulo</h2>
-<p ALIGN="justify">Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
-<br>
-<ul>
-  <li> Donaciones voluntarias.</li>
-  <li> Patrocinador.</li>
-  <li> Expositor.</li>
-  <li> Difusión y participación de actividades.</li>
-</ul>
