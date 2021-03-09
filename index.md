@@ -25,7 +25,7 @@ postal-code:
 <h2>Siguenos</h2>
 Mantente informado de todas las actividades que realicemos en el Cápitulo de OWASP Barranquilla:
 <br>
-<a href="http://www.twitter.com/owaspbaq" rel="nofollow"> <img src="https://www.owasp.org/images/d/d0/Twitterelvin.png" width="70" height="70">
+
 
 <h2>Soporte al Cápitulo</h2>
 <p ALIGN="justify">Si estas interesado en colaborar con la realización de las actividades para el cápitulo, tienes las siguientes alternativas:
